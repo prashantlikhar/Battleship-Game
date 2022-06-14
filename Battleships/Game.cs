@@ -111,7 +111,6 @@ namespace Battleships
                         }
                         shipDetails.ShipCoordinateList = shipCoordinateDetailsList;
                         shipDetailsList.Add(shipDetails);
-
                     }
                 }
                 else
